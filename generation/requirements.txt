@@ -1,0 +1,3 @@
+diffusers
+open_clip_torch
+tqdm

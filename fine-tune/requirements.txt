@@ -1,0 +1,15 @@
+torch
+torchvision
+git+https://github.com/openai/CLIP.git
+omegaconf
+torchinfo
+gdown
+lightning==2.0.6
+black
+flake8
+pandas
+loralib
+einops
+peft
+wandb
+timm

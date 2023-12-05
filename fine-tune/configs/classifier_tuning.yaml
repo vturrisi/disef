@@ -1,0 +1,26 @@
+model:
+  name: "ViT-B/16"
+data:
+  name: "none"
+  batch_size: 0
+  num_workers: 8
+  k_shot: 16
+  augment: True
+optim:
+  name: "adamw"
+  lr: 0.00
+  weight_decay: 0.1
+sched:
+  name: "warmup_cosine"
+  warmup_epochs: 0
+wandb:
+  enabled: True
+  project: "few-shot"
+
+name: "none-classifier-tuning-16-shot"
+max_epochs: 50
+devices: [0]
+sync_batchnorm: True
+accelerator: "gpu"
+strategy: "ddp"
+precision: "16-mixed"
