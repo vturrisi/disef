@@ -15,3 +15,13 @@ to enhance fine-tuning (`generation`).
 Each part contains its respective README files available in `fine-tune/README.md` and `generation/README.md` with additional details about installation, code organization and execution.
 
 ## Citation
+```bibtex
+@misc{dacosta2023diversified,
+      title={Diversified in-domain synthesis with efficient fine-tuning for few-shot classification}, 
+      author={Victor G. Turrisi da Costa and Nicola Dall'Asen and Yiming Wang and Nicu Sebe and Elisa Ricci},
+      year={2023},
+      eprint={2312.03046},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
