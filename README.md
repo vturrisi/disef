@@ -5,7 +5,7 @@
 </p>
 
 This is the official repository for the paper:
-> **[Diversified in-domain synthesis with efficient fine-tuning for few-shot classification](arxivlink)**<br>
+> **[Diversified in-domain synthesis with efficient fine-tuning for few-shot classification](https://arxiv.org/abs/2312.03046)**<br>
 > [Victor G. Turrisi da Costa*](https://scholar.google.com/citations?user=UQctXiEAAAAJ&hl=en&oi=ao), [Nicola Dall'Asen*](https://scholar.google.com/citations?user=e7lgiYYAAAAJ&hl), [Yiming Wang](https://scholar.google.co.uk/citations?user=KBZ3zrEAAAAJ&hl=en), [Nicu Sebe](https://scholar.google.com/citations?user=tNtjSewAAAAJ&hl=en) and [Elisa Ricci](https://scholar.google.com/citations?user=xf1T870AAAAJ&hl=en). <br>
 
 The code is divided into two main parts, one for fine-tuning a pre-trained model
